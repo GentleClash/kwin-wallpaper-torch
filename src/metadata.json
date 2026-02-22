@@ -1,0 +1,10 @@
+{
+    "KPlugin": {
+        "Category": "Appearance",
+        "Description": "Darkens the desktop wallpaper with a radial spotlight around the cursor",
+        "EnabledByDefault": true,
+        "License": "GPL",
+        "Name": "WallpaperTorch",
+        "Version": "0.1"
+    }
+}
